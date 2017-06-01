@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TempretureConverter</string>
+    <string name="saction_settings">Settings</string>
+    <string name="hello">Hello World</string>
+    <color name="myclor">#F5F5F5</color>
+    <string name="celsius">to Celsius</string>
+    <string name="fahrenheit">to Fahrenheit</string>
+    <string name="calc">Calculate</string>
+
+
+</resources>
